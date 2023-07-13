@@ -1,7 +1,7 @@
 # Snake_Game_Turtle
 Classis Snake Game using Turtle in Python. <br/>
 -> This game is made using Turtle moduke in Python & using object oriented programming. <br/>
--> The attributes and methods of turtle module are used from -> https://docs.python.org/3/library/turtle.html
+-> The attributes and methods of turtle module are used from -> https://docs.python.org/3/library/turtle.html <br/>
 -> Every function and class used is explained in the respective files using header comments. <br/>
 -> The rules of this game are as follows:- <br/>
 1. The snake starts with 3 blocks and with each pill you eat adds a new block to the tail. <br/>
